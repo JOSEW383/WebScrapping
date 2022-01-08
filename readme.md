@@ -1,3 +1,6 @@
 ### App webScrapping
 
-Example application made in python for web webScrapping Selenium
+Example applications made in python and Selenum for web Scrapping.
+- webScrapperStatic
+- webScrapperDinamic
+- readXMLAndJSON
